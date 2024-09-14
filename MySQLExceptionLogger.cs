@@ -1,5 +1,4 @@
-﻿using CodeMechanic.Diagnostics;
-using CodeMechanic.Types;
+﻿using CodeMechanic.Types;
 using MySql.Data.MySqlClient;
 
 namespace CodeMechanic.Systemd.Daemons;
